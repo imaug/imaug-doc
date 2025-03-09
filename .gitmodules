@@ -1,0 +1,4 @@
+[submodule "imgaug-repo"]
+	path = imgaug-repo
+	url = git@github.com:erjel/imgaug.git
+	branch = test

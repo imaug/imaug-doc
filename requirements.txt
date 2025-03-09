@@ -9,3 +9,7 @@ imageio
 Shapely
 numpydoc
 dashtable
+
+Sphinx
+numpydoc
+sphinx_rtd_theme
